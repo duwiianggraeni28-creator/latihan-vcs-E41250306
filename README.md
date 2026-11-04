@@ -28,3 +28,11 @@ Repository ini dibuat untuk memenuhi Tugas 1 mata kuliah Standarisasi Coding ten
 
 \- Menggunakan .gitignore.
 
+## Riwayat Pengembangan
+
+1\. Commit pertama: Membuat README awal.
+
+2\. Commit kedua: Menambahkan file .gitignore.
+
+3\. Commit ketiga: Menambahkan riwayat pengembangan.
+
